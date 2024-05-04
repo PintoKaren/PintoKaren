@@ -3,7 +3,7 @@
 <br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ karen-pinto-881b99158) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karen-pinto-881b99158) <br>
 <br>
 
 # 💻 Tech Stack:
