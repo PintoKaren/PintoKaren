@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Bonjour 👋<br><br>♈ Je suis Ҡaren<br>🏡 J'habite en Isère, limitrophe côté Drôme<br><br>💻 Suite à une formation découverte des métiers du multimédia, j'ai acquis des connaissances en développement web<br>🎓 Je recherche aujourd'hui une formation ou alternance en "DWWM" ou "intégrateur web"<br>🌱 En attendant, je m'entraîne en suivant des cours gratuits en ligne, ce qui me permet de continuer à pratiquer et évoluer<br><br>🌍Vous trouverez dans mes repositories, mon portfolio, qui est encore a finir<br>🔭 Vous pourrez également y trouver mes différents exercices <br>
+## Bonjour, 👋<br><br>♈ Je suis Ҡaren.<br>🏡 J'habite en Isère, limitrophe côté Drôme.<br><br>💻 Suite à une formation découverte des métiers du multimédia, j'ai acquis des connaissances en développement web.<br>🎓 Je recherche aujourd'hui une formation ou alternance en "DWWM" ou "intégrateur web".<br>🌱 En attendant, je m'entraîne en suivant des cours gratuits en ligne, ce qui me permet de continuer à pratiquer et évoluer.<br><br>🌍Vous trouverez dans mes repositories, mon portfolio, qui est encore a finir,<br>🔭 Vous pourrez également y trouver mes différents exercices <br>
 <br>
 
 # 🌐 Socials:
